@@ -18,7 +18,7 @@ A Python project developed as part of the **Project Q 30-Day Challenge**. This a
 - Python
 - NumPy
 - Matplotlib
-- Qiskit / IBM Quantum (if applicable)
+- Qiskit 
 
 ## Project Goal
 
