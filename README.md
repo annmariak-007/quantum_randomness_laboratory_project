@@ -25,5 +25,6 @@ A Python project developed as part of the **Project Q 30-Day Challenge**. This a
 The objective of this project is to understand the principles of quantum randomness and demonstrate how quantum-generated random numbers differ from classical pseudo-random numbers through visualization and statistical analysis.
 
 ## How to run this
-
+A google colab badge is added at the top if you wish to run the project directly on your google colab. 
+Note: The project runs in Google Colab, but the Qiskit histogram visualization may not render correctly due to Colab environment limitations. For the intended visualization experience, run the project locally with the required dependencies installed.
 
