@@ -3,7 +3,7 @@
 
 A Python project developed as part of the **Project Q 30-Day Challenge**. This application explores quantum randomness by generating quantum random numbers, visualizing their distribution, performing statistical analysis, and comparing them with classical pseudo-random number generation.
 
-https://colab.research.google.com/github/annmariak-007/quantum_randomness_laboratory_project/blob/main/for_colab.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annmariak-007/quantum_randomness_laboratory_project/blob/main/quantum_randomness_laboratory.ipynb)
 
 ## Features
 
